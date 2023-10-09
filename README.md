@@ -13,4 +13,4 @@ Working with files and the Pandas library
 * BI Developer - Building reporting scheme - Notebook 5
 Creating reporting schema and views using SQL
 
-The project was an independent work to be completed at the end of 'Data Analyst' course conducted by IT school CodersLab.
+The project was an independent work to be completed at 'Data Analyst' course conducted by IT school CodersLab.
